@@ -1,0 +1,6 @@
+python-telegram-bot
+sqlite3
+re
+os
+random
+datetime
